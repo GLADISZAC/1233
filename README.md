@@ -1,5 +1,8 @@
-# 1233
-Image processing assg 2
+# DEBLUR
+%Image processing assginment 2
+%GLADIS ZACHARIA
+%17307R004
+%Codes except the inbuilt functions for FFT , IFFT, SSIM has been written by myself.
 function varargout = DEBLUR(varargin)
 % DEBLUR MATLAB code for DEBLUR.fig
 %      DEBLUR, by itself, creates a new DEBLUR or raises the existing
